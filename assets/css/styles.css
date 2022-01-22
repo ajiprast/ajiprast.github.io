@@ -1229,11 +1229,13 @@ img {
   /* .home__content {
     transform: translateX(-3rem);
   } */
-  .home{
-    padding: 13rem 0 5rem;
+  .home {
+    padding: 13rem 0 7rem;
   }
   .home__data {
     grid-column: initial;
+    transform: translateX(-3rem);
+    width: 350px;
   }
   .home__blob {
     width: 350px;
