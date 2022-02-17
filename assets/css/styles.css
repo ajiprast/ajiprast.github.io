@@ -1234,7 +1234,7 @@ img {
     transform: translateX(-3rem);
   } */
   .home {
-    padding: 13rem 0 7rem;
+    padding: 2rem 0 7rem;
   }
   .home__data {
     grid-column: initial;
